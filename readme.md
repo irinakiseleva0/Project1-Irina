@@ -12,3 +12,4 @@ Before you start: YOU DON’T HAVE TO WRITE ANY CSS ! All the required css is wr
 - Add your project to Github and deploy it. [Here’s a guide](https://www.notion.so/Github-517fb95f655b42a4892ac40b596ba322) on how to do that, in case you need it
 
 ## Good luck and may the Force be wit you !
+Starter project cloned and initialized by Irina
