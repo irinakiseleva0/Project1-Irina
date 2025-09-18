@@ -1,9 +1,9 @@
 :root {
-	--main-clr: #37b6f3;
-	--accent: #9155fe;
-	--contrast: #181818;
-	--light-gray: #eeeeee;
-	--border-radius: 4px;
+	--main-clr: #1fb6a6;
+	--accent: #00c853;
+	--contrast: #0f172a;
+	--light-gray: #eef7f5;
+	--border-radius: 10px;
 }
 
 * {
